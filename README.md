@@ -26,7 +26,7 @@ Ensure you have the following installed:
 Clone the repository and navigate to the folder:
 
 ```bash
-git clone https://github.com/sean-njela/ip_address_tool.git 
+git clone https://github.com/sean-njela/Java_Inet.git
 cd ip_address_tool
 ```
 
